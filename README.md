@@ -12,4 +12,4 @@ A sleek and modern personal portfolio website built to showcase my skills, proje
 
  ## Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/malviyakunal/personal-portfolio.git
